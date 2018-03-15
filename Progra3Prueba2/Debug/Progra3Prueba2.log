@@ -1,0 +1,3 @@
+﻿  UtilidadesListaEnlazada.cpp
+c:\users\bryan\source\repos\progra3prueba2\progra3prueba2\utilidadeslistaenlazada.cpp(46): warning C4172: returning address of local variable or temporary: listx
+  Progra3Prueba2.vcxproj -> C:\Users\bryan\source\repos\Progra3Prueba2\Debug\Progra3Prueba2.exe
